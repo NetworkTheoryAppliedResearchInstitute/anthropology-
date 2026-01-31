@@ -1,3 +1,11 @@
+# Anthropology AI Knowledge Base
+
+![License](https://img.shields.io/badge/license-AGPL--3.0-blue)
+![Status](https://img.shields.io/badge/status-complete-success)
+![Files](https://img.shields.io/badge/files-152-informational)
+![Tokens](https://img.shields.io/badge/tokens-580K-informational)
+![Sessions](https://img.shields.io/badge/sessions-45-informational)
+
 # Anthropology AI Instructor - Complete Knowledge Base
 ## Comprehensive Training Corpus for Conversational AI Teaching
 
